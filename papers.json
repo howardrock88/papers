@@ -1,0 +1,4 @@
+[
+  { "id": 1, "title": "GR00T: NVIDIA Universal Robot Foundation Model", "date": "2026-02-20", "desc": "NVIDIA发布的通用机器人基础模型", "link": "https://developer.nvidia.com/gr00t" },
+  { "id": 2, "title": "Scaling Robot Learning with Teleoperation Data", "date": "2026-02-19", "desc": "SONIC开源项目论文", "link": "https://github.com/NVIDIA/SONIC" }
+]
